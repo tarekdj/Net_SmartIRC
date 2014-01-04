@@ -1,5 +1,6 @@
 {
     "name": "tarekdj/net-smart-irc",
+    "license": "LGPLv2.1",
     "repositories": [{
       "type": "vcs",
       "url": "https://github.com/tarekdj/Net_SmartIRC.git"
