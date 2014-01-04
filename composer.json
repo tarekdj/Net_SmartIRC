@@ -1,0 +1,11 @@
+{
+    "name": "tarekdj/NetSmartIRC",
+    "repositories": [{
+      "type": "vcs",
+      "url": "https://github.com/tarekdj/Net_SmartIRC.git"
+    }
+    ],
+    "require": {
+      "php": ">=5.3.0"
+    }
+}
