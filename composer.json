@@ -1,5 +1,5 @@
 {
-    "name": "tarekdj/NetSmartIRC",
+    "name": "tarekdj/net-smart-irc",
     "repositories": [{
       "type": "vcs",
       "url": "https://github.com/tarekdj/Net_SmartIRC.git"
