@@ -44,7 +44,7 @@
  */
 // ------- PHP code ----------
 require_once 'SmartIRC/defines.php';
-define('SMARTIRC_VERSION', '1.1.0-dev ($Revision$)');
+define('SMARTIRC_VERSION', '1.0.3-dev (by tarekdj)');
 define('SMARTIRC_VERSIONSTRING', 'Net_SmartIRC '.SMARTIRC_VERSION);
 
 /**
